@@ -15,7 +15,7 @@ jnajwhdanbiwduanwdioayuhbou2qgybroq@github
       CPU  :  Apple M1
     Alias  :  cs/checksum
 Languages  :  C, Go, PHP, Python, Java
-  Discord  :  806059275678908418
+  Discord  :  765515946856677386
 ```
 
 <p align="left">
