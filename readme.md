@@ -8,14 +8,15 @@
 jnajwhdanbiwduanwdioayuhbou2qgybroq@github
 ----------------
 
-       OS  :  macOS arm64
+       OS  :  Windows 11 Dev
        WM  :  yabai
     Shell  :  zsh 5.8
- Terminal  :  iTerm2
-      CPU  :  Apple M1
-    Alias  :  cs/checksum
+ Terminal  :  Alacritty
+      CPU  :  Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz
+    Alias  :  icebear
 Languages  :  C, Go, PHP, Python, Java, C++, C#, Css, Html
   Discord  :  765515946856677386
+  Tiktok   :  xigb
 ```
 
 <p align="left">
