@@ -14,7 +14,7 @@ jnajwhdanbiwduanwdioayuhbou2qgybroq@github
  Terminal  :  iTerm2
       CPU  :  Apple M1
     Alias  :  cs/checksum
-Languages  :  C, Go, PHP, Python, Java
+Languages  :  C, Go, PHP, Python, Java, C++, C#, Css, Html
   Discord  :  765515946856677386
 ```
 
