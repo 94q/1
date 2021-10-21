@@ -29,4 +29,4 @@ Languages  :  C, Go, PHP, Python, Java
 
 ---
 
-![](https://komarev.com/ghpvc/?username=jnajwhdanbiwduanwdioayuhbou2qgybroq&style=flat-square)
+![](https://visitor-badge.glitch.me/badge?page_id=jnajwhdanbiwduanwdioayuhbou2qgybroq.jnajwhdanbiwduanwdioayuhbou2qgybroq)
